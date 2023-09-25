@@ -1,4 +1,4 @@
-**Projet 9 de la formation Openclassrooms :**
+**Projet 10 de la formation Openclassrooms :**
 **CREATION D'UN ALGORITHME DE DETECTION DE FAUX BILLETS**
 
 Projet réalisé sous python via un notebook Jupyter
