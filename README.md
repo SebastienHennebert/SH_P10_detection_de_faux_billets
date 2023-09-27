@@ -3,7 +3,7 @@
 
 Projet réalisé sous python via un notebook Jupyter
 
-Mission : A l'aide d'un jeu de données comportant les valeurs de différentes caractéristiques géométriques de billets ainsi que leur caractère 'vrai' ou 'faux', j'ai entraîné un algorithme dans de but qu'il reconnaisse des faux billets lorsque je lui présente de nouvelles données.
+Mission : A l'aide d'un jeu de données comportant les valeurs de différentes caractéristiques géométriques de billets ainsi que leur caractère 'vrai' ou 'faux', j'ai entraîné un algorithme afin qu'il reconnaisse des faux billets lorsque je lui présente de nouvelles données.
 
 Sommaire du notebook:
 
